@@ -65,4 +65,3 @@ WHERE country_name IN (
 )
 ORDER BY y_2023 DESC;
 
--- GitHub SQL recognition test
