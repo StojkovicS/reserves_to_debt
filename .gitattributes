@@ -1,2 +1,2 @@
-# Force all .sql files to be recognized as SQL
-*.sql linguist-language=SQL linguist-vendored=false linguist-generated=false linguist-documentation=false
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
