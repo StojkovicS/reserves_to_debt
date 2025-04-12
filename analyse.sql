@@ -1,6 +1,7 @@
 -- modify table name
 RENAME TABLE updated_gov_debt.wb_data TO updated_gov_debt.reserves_to_debt
 
+-- check out the dataset
 SELECT *
 FROM updated_gov_debt.reserves_to_debt
 
