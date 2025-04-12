@@ -1,3 +1,6 @@
+-- Force SQL recognition
+SELECT 1;
+
 --sadasdas
 --sadasdas
 --sadasdas--sadasdas
