@@ -64,3 +64,5 @@ WHERE country_name IN (
   'Moldova', 'Montenegro', 'North Macedonia', 'Serbia', 'Ukraine'
 )
 ORDER BY y_2023 DESC;
+
+-- GitHub SQL recognition test
