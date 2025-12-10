@@ -1,4 +1,4 @@
 # Reserves to debt
 
-Total reserves (% of total external debt) a country has at its disposal relative to total external govenrnment debt.
-This is calculated for developing countries only, using World Bank data (Wave 7). See the written report here: https://stojkovics.github.io/reserves_to_govdebt.html
+I used publically available World Bank dataset (Wave 7) to calculate total reserves (% of total external debt) a country has at its disposal relative to total external govenrnment debt.
+I focused on developing countries only. See the written report here: https://stojkovics.github.io/reserves_to_govdebt.html
